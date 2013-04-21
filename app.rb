@@ -1,6 +1,6 @@
 require 'sinatra'
 
-set :port, 5000
+#set :port, 5000
 
 def json_file(name)
   "#{settings.root}/json/#{name}.json"
