@@ -1,6 +1,6 @@
 # A sample Gemfile
-#source "https://rubygems.org"
-source :rubygems
+source "https://rubygems.org"
+#source :rubygems
 
 gem 'thin'
 gem 'unicorn'
